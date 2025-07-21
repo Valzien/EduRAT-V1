@@ -28,6 +28,7 @@ Gunakan dengan penuh tanggung jawab dan etika.
 ```bash
 python main.py
 Jalankan client .exe di korban (dengan izin):
+```
 
 Client otomatis connect ke server dan siap menerima perintah.
 
